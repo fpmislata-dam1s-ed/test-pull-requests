@@ -4,3 +4,4 @@ Estem fent proves de Pull Request
 
 Autors:
 - Joan Puigcerver
+- Usman Afzal
