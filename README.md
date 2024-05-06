@@ -6,3 +6,4 @@ Autors:
 - Joan Puigcerver
 - Irene Ferrando
 - Antonio Lopez
+- Usman Afzal
