@@ -9,3 +9,4 @@ Autors:
 - Usman Afzal
 - Victor Lopez
 - Andrea Melero
+- Elena Melero
