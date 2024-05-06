@@ -4,4 +4,9 @@ Estem fent proves de Pull Request
 
 Autors:
 - Joan Puigcerver
+- Irene Ferrando
+- Antonio Lopez
+- Usman Afzal
+- Victor Lopez
+- Andrea Melero
 - Elena Melero
