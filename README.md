@@ -8,3 +8,4 @@ Autors:
 - Antonio Lopez
 - Usman Afzal
 - Victor Lopez
+- Andrea Melero
