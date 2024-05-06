@@ -7,3 +7,4 @@ Autors:
 - Irene Ferrando
 - Antonio Lopez
 - Usman Afzal
+- Victor Lopez
